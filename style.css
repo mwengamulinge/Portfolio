@@ -1,0 +1,131 @@
+@media (max-width: 992px) {
+    body
+{
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width:100%;
+    background-color: #EEFBEB;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(189, 14, 189);
+    overflow-x: hidden;
+}
+ .main-content
+ {
+padding:0px;
+background-color: snow;
+width: 60%;
+height: 80vh;
+margin-top: 5%;
+margin-left:20%;
+border:none;
+border-radius:30px;
+box-shadow: 0px 0px 5px rgb(27, 26, 27);
+
+ }
+ .main-content h4, h2, h5
+ {
+     text-align: center;
+
+ }
+ .main-content h4
+ {
+     color:#ffff;
+     margin-top: 10px;
+
+ }
+ .main-content h5
+ {
+     color: #000;
+
+ }
+ .dp
+ {
+     border:none;
+     height: 150px;
+     width: 150px;
+     border-radius: 50%;
+     margin-left: 30%;
+     margin-top: 15px;
+ }
+ .dp img
+ {
+     height: 150px;
+     width: 150px;
+     border-radius: 50%;
+     margin-left: 0%;
+ }
+ .chat-btn
+ {
+border: none;
+outline: none;
+cursor: pointer;
+background-color: rgb(189, 14, 189);
+color:#ffff;
+padding: 10px;
+border-radius: 20px;
+width: 60%;
+font-weight: bold;
+font-size: 18px;
+margin-left: 20%;
+ }
+ .main-content ul
+ {
+     margin-top: 50px;
+     margin-left: 10%;
+ }
+ .main-content ul li
+ {
+     list-style: none;
+     float: none;
+     height: 30px;
+     width: 65%;
+     border: none;
+     background-color: #ffff;
+     text-align: center;
+     cursor: pointer;
+     margin-top: 20px;
+     color: #000;
+     border-radius: 5px;
+     font-weight: bold;
+     box-shadow:0px 0px 2px #000;
+     padding: 10px;
+
+ }
+ .main-content ul li a
+ {
+     text-decoration: none;
+     position: absolute;
+     margin-top: 5px;
+     margin-left: -65px;
+     text-align: center;
+     color: #000;
+ }
+ .footer
+ {
+     width: 100%;
+     background-color: rgb(189, 14, 189);
+     height: 8.5vh;
+     border-top-left-radius: 100%;
+     border-bottom-right-radius:30px;
+     border-bottom-left-radius:30px;
+     border:none;
+     color: #ffff;
+     text-align: center;
+     font-size: 12px;
+
+ }
+ .head
+ {
+     width: 100%;
+     background-color: rgb(189, 14, 189);
+     height: 7vh;
+     border-bottom-left-radius: 70%;
+     border-top-right-radius:30px;
+     border-top-left-radius:30px;
+     border:none;
+
+ }
+}
